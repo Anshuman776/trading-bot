@@ -94,24 +94,20 @@ rich==13.7.0
 ```
 
 ---
-
 ## Screenshots
 
 ### MARKET Order
 
-![market](<img width="450" height="290" alt="Screenshot 2026-05-09 193554" src="https://github.com/user-attachments/assets/96634f86-3919-4a57-9d9f-85bc2c4485a5" />
-)
+![market](https://github.com/user-attachments/assets/96634f86-3919-4a57-9d9f-85bc2c4485a5)
 
 ---
 
 ### LIMIT Order
 
-![limit](<img width="1278" height="379" alt="Screenshot 2026-05-09 192413" src="https://github.com/user-attachments/assets/1b731552-825e-4b7b-8e88-153fe20f2f14" />
-)
+![limit](https://github.com/user-attachments/assets/1b731552-825e-4b7b-8e88-153fe20f2f14)
 
 ---
 
 ### Logging Output
 
-![logs](<img width="1555" height="370" alt="Screenshot 2026-05-09 192439" src="https://github.com/user-attachments/assets/93f4c37c-432f-442c-8510-e618adcb09ae" />
-)
+![logs](https://github.com/user-attachments/assets/93f4c37c-432f-442c-8510-e618adcb09ae)
