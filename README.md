@@ -147,3 +147,14 @@ Log files	⬜
 ---
 
 You're nearly finished — run the example commands above and, if you want, I can push the repo once you provide the GitHub repo URL.
+
+## Screenshots
+
+### MARKET Order
+![market](screenshots/market_order.png)
+
+### LIMIT Order
+![limit](screenshots/limit_order.png)
+
+### Logs
+![logs](screenshots/logs.png)
